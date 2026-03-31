@@ -9,21 +9,7 @@ This project focuses on analyzing fish production data to extract meaningful ins
 - Clean and preprocess raw fish production data
 - Explore patterns and trends in fish characteristics
 - Identify key factors affecting fish weight and size
-- Present insights through visualizations and dashboards
-
 ---
-
-## 📂 Project Structure
-
-Fish-production-data-analysis-dashboard/
-├── data/
-│   └── fish_data_processed.csv
-├── notebooks/
-│   └── fish_data_analysis.ipynb
-├── dashboard/
-├── images/
-├── report/
-└── README.md
 
 ## 🛠️ Tools & Technologies
 - Python
