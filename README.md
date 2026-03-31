@@ -17,9 +17,9 @@ This project focuses on analyzing fish production data to extract meaningful ins
 
 Fish-production-data-analysis-dashboard/
 ├── data/
-│ └── fish_data_processed.csv
+│   └── fish_data_processed.csv
 ├── notebooks/
-│ └── fish_data_analysis.ipynb
+│   └── fish_data_analysis.ipynb
 ├── dashboard/
 ├── images/
 ├── report/
